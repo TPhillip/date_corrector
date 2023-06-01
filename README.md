@@ -13,5 +13,5 @@ This is a quick fix that changes the mtime/ctime based on the XMP metadata expor
 
 - dateutil installed using pip
 
-##Usage:
+## Usage:
 date_corrector.py [photo directory]
